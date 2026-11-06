@@ -1,1 +1,1 @@
-En aquest repositori publico la resolució del meu Cas Kaggle de la assignatura Aprenentatge Computacional d'Enginyeria Informàtica.
+Machine learning project analyzing video game sales and predicting commercial success using classification models, exploratory data analysis, and hyperparameter optimization.
